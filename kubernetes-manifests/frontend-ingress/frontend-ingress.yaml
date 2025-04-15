@@ -10,7 +10,7 @@ metadata:
 spec:
   ingressClassName: alb
   rules:
-    - host: www.ka-tech.shop
+    - host: www.shop
       http:
         paths:
           - path: /
